@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>藤原 龍のプロフィール</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: sans-serif;
+      margin-top: 80px;
+      background: #f5f5f5;
+    }
+
+    .card {
+      background: white;
+      max-width: 400px;
+      margin: auto;
+      padding: 40px 20px;
+      border-radius: 15px;
+    }
+
+    .sns a {
+      display: block;
+      margin: 10px 0;
+      color: #007acc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>藤原 龍</h1>
+    <p>🎂 誕生日：2012/11/12</p>
+
+    <div class="sns">
+      <a href="https://x.com/9cxgjaemzj54170?s=21" target="_blank">X</a>
+      <a href="https://www.instagram.com/ryu.japan1112?igsh=MWJ6cTVvYmk3a3c3Mg%3D%3D&utm_source=qr" target="_blank">Instagram</a>
+      <a href="https://www.tiktok.com/@ryu_japan?_r=1&_t=ZS-92I5JAt0qqu" target="_blank">TikTok</a>
+      <a href="https://www.youtube.com/@Ryu.japan1112" target="_blank">YouTube</a>
+      <a href="https://www.threads.com/@ryu.jpn1112?igshid=NTc4MTIwNjQ2YQ==" target="_blank">Threads</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
